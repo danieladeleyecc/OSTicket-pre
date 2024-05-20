@@ -238,4 +238,3 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>	
 
 
-C to move on to part 2 of this tutorial!
